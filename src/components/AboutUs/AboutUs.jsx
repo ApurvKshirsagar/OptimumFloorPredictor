@@ -17,7 +17,7 @@ const teamMembers = [
   },
   {
     name: 'Apurv Kshirsagar',
-    role: 'Software Developer',
+    role: 'Software Developer/Researcher',
     img: member2,
     desc: "Apurv writes code so clean, you could eat off it. A bug's worst nightmare and a meme lord by night, he’s always ready to squash errors",
   },
@@ -35,9 +35,9 @@ const teamMembers = [
   },
   {
     name: 'Radha Agrawal',
-    role: 'UI/UX Developer',
+    role: 'Researcher',
     img: member5,
-    desc: 'Radha turns pixels into pure magic. With an eye for detail and a knack for making the complex look simple, she crafts interfaces that users fall in love with-while keeping the team’s playlist on point.',
+    desc: 'Curious and insightful, Radha uncovers hidden patterns and transforms complex questions into clear, evidence-based answers. She brings energy to every discussion-always ready to spark thoughtful debate.',
   },
 ];
 
