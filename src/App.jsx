@@ -6,6 +6,7 @@ import Footer from './components/Footer/Footer';
 import Calculator from './components/Calculator/Calculator';
 import Revenue from './components/Revenue/Revenue';
 import CashFlow from './components/Cashflow/Cashflow';
+import AboutUs from './components/AboutUs/AboutUs';
 import './App.css';
 
 function App() {
@@ -52,10 +53,7 @@ function App() {
             />
           }
         />
-        <Route
-          path='/about'
-          element={<div className='about-container'>About Us Page</div>}
-        />
+        <Route path='/about' element={<AboutUs />} />
       </Routes>
       <Footer />
     </BrowserRouter>

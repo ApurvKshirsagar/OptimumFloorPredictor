@@ -29,7 +29,6 @@ export default function Home() {
           </button>
         </div>
       </section>
-
       <section className='about-section'>
         <h2 className='about-title'>About the Tool</h2>
         <p className='about-description'>
@@ -41,7 +40,6 @@ export default function Home() {
           profitability.
         </p>
       </section>
-
       <section className='info-cards-section'>
         <div className='info-cards-container'>
           <div className='info-card'>
@@ -143,7 +141,6 @@ export default function Home() {
           </button>
         </div>
       </section>
-
       <section className='features-section'>
         <h2 className='features-title'>Key Features</h2>
         <div className='features-list'>
@@ -175,12 +172,13 @@ export default function Home() {
             <div className='feature-circle'>4</div>
             <div className='feature-label'>Professional Reporting</div>
             <div className='feature-desc'>
-              Generate and export detailed reports for project documentation,
+              Generate and export detailed charts for project documentation,
               planning, and presentations.
             </div>
           </div>
         </div>
       </section>
-    </>
-  );
+          
+    </>
+  );
 }
