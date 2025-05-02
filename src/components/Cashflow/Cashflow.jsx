@@ -22,6 +22,7 @@ import {
   calculateHeatPenalty,
   calculateElevatorPenalty,
 } from './revenueFunctions';
+import './Cashflow.css';
 
 const PIE_COLORS = ['#2196F3', '#4CAF50', '#FFC107', '#FF9800', '#9C27B0'];
 const COMPONENT_KEYS = [

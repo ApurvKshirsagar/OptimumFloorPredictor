@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './revenue.css';
+import './Revenue.css';
 import {
   BarChart,
   Bar,
